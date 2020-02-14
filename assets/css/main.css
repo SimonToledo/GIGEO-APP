@@ -1,3 +1,7 @@
+.navbar-nav {
+  background-color: #000000;
+}
+
 .banner {
   background-repeat: no-repeat;
   background-size: cover;
